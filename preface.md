@@ -33,8 +33,8 @@ Date: 02/01/2025
         - single stage BJT common emitter amplifier (with and without emitter feedback)
         - problems on design and analysis of single stage amplifiers
     5) advanced analogue amplifiers
-        - concepts on multi stage applications
-        - concepts on multi-input and multi-output amplifiers
+        - concepts related to multi stage applications
+        - concepts related to multi-input and multi-output amplifiers
         - differential amplifiers - design and analysis
         - problems based on differential amplifiers
 
