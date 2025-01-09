@@ -1,4 +1,12 @@
-Date: 02/01/2025
+<!--toc:start-->
+- [Course Objectives](#course-objectives)
+- [Syllabus (modules)](#syllabus-modules)
+- [Reference Books: <!-- 09/01/2025 -->](#reference-books-09012025)
+- [Other Resources:](#other-resources)
+- [Evaluation Scheme](#evaluation-scheme)
+<!--toc:end-->
+
+<!-- Date: 02/01/2025 -->
 - ## Course Objectives
     - Need for analogue circuits
     - Understand the difference between *circuit design* and *circuit analysis*
@@ -68,5 +76,17 @@ Date: 02/01/2025
         - IC biasing using current mirrors
         - single stage analog amplifiers using MOSFETs
         - Analysis problems
-
+- ## Reference Books: <!-- 09/01/2025 -->
+    - Boylestad and Nashelsky : Electronic Devices and Circuit Theory (Pearson)
+    - Donald Neamen : Electronic Circuits - Analysis and Design (Mc Graw Hill, 3e)
+- ## Other Resources:
+    - NPTEL Lectures
+    - Simulation software for circuit design and analysis (SPICE Software)
+        - LTspice
+        - MultiSim
+        - [PySpice](https://github.com/PySpice-org/PySpice)
+- ## Evaluation Scheme
+    - 30 mids + 60 ends + 10 quiz (March last week (march 25 or march 27) )
+    - Mid Sem Syllabus: Module 4 mei tb tk jahan tk cover hoga
+    - End Sem Syllabus: Full Syllabus
 
