@@ -27,7 +27,10 @@
 5) Product level <!-- difference being that products need certification -->
 
 ## End to End block diagrams
-# [-]  TODO Add ASCII block diagram
+![block diagram of electrical system](./graphics//block_diagram_of_electrical_system.jpeg) 
+![block diagram of electrical system (svg)](./graphics/block_diagram_of_electronic_systems.svg) 
+![block diagram of electrical system (incomplete) txt](./graphics/block_diagram_of_electronic_systems.txt) 
+[-] TODO Add ASCII block diagram <!-- :r ./graphics/block_diagram_of_electronic_systems.txt -->
 - Electronic systems generally process real world information, where the current or voltage  is taken as a representation of information present in the real world signals
 - Every electronic systems' interface to the real world through transducers for the purpose of converting information from one domain to the other.
 - Examples:
