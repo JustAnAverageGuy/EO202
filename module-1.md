@@ -30,6 +30,7 @@
 ![block diagram of electrical system](./graphics//block_diagram_of_electrical_system.jpeg) 
 ![block diagram of electrical system (svg)](./graphics/block_diagram_of_electronic_systems.svg) 
 ![block diagram of electrical system (incomplete) txt](./graphics/block_diagram_of_electronic_systems.txt) 
+
 [-] TODO Add ASCII block diagram <!-- :r ./graphics/block_diagram_of_electronic_systems.txt -->
 - Electronic systems generally process real world information, where the current or voltage  is taken as a representation of information present in the real world signals
 - Every electronic systems' interface to the real world through transducers for the purpose of converting information from one domain to the other.
@@ -60,3 +61,16 @@
   - transmission lines
   - wave gates
   - transceivers
+- E.g. <!-- 16/01/2025 -->
+  - Digital Weighing machine
+    - ![block diagram of digital weighing machine](./graphics/block_diagram_of_digital_weighing_machine.svg) 
+  - 2D obstacle avoiding robots
+    - ![obstace avoiding block diagram](./graphics/Obstacle-avoiding-robot.svg) 
+## Introduction to VLSI and Integrated Circuits
+  - Motivations
+    - size reduction (miniaturization)
+    - low power implementation
+    - computational complexity
+    - Cost
+      - reduced with semiconductor fabrication technology
+    - Operating frequency bandwidth
